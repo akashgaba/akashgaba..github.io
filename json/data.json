@@ -1,0 +1,75 @@
+{
+    "resume": {
+        "name": "Akash Gaba",
+        "profile": "Software Engineer",
+        "technology": "Java Developer",
+        "email": "aakashgaba@gmail.com",
+        "phoneNumber": [
+            "8285216287",
+            "8700901205"
+        ],
+        "education": [
+            {
+                "name": "NSIT (now NSUT)",
+                "location": "New Delhi",
+                "stream": "B.E. in Instrumentation And Control Engineering",
+                "marks": {
+                    "percent": 65.49
+                },
+                "degree": "University of Delhi",
+                "range": {
+                    "start": 2014,
+                    "end": 2018
+                }
+            },
+            {
+                "name": "St. Cecilia School",
+                "location": "New Delhi",
+                "marks": {
+                    "percent": 91.8
+                },
+                "board": "CBSE",
+                "range": {
+                    "start": 2013,
+                    "end": 2014
+                },
+                "class": {
+                    "value": 12,
+                    "super text": "th"
+                }
+            },
+            {
+                "name": "St Peter's Convent",
+                "location": "New Delhi",
+                "marks": {
+                    "cgpa": 9.2
+                },
+                "board": "CBSE",
+                "range": {
+                    "start": 2011,
+                    "end": 2012
+                },
+                "class": {
+                    "value": 10,
+                    "super text": "th"
+                }
+            }
+        ],
+        "technicalSkills": [
+            {
+                "programmingLanguages": [
+                    "Java",
+                    "Basic HTML",
+                    "Basic CSS"
+                ],
+                "javaDevelopment": [
+                    "Rest Web Services using Java 8"
+                ],
+                "developmentFrameworks": [
+                    "Spring",
+                    "Hibernate"
+                ]
+            }
+        ]
+    }
+}
